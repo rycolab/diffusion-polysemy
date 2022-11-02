@@ -6,17 +6,20 @@ This repository contains code accompanying ['Schrödinger’s Bat: Diffusion Mod
 
 ## Details
 
+The notebook `experiments.ipynb` contains code that will run all of the experiments described in the paper.
+
+An authorisation key for Stable Diffusion is required.
+
+We ran the original experiments using Google Colab.
+
 ## Citation
 
 ```
-@inproceedings{white-cotterell-2022-equivariant,
-    title = "Equivariant Transduction Through Invariant Alignment",
+@misc{white-cotterell-2022-diffusion,
+    title = "Schr\"{o}dinger's Bat: Diffusion Models Sometimes Generate Polysemous Words in Superposition",
     author = "White, Jennifer C.  and
       Cotterell, Ryan",
-    booktitle = "Proceedings of the 29th International Conference on 
-Computational Linguistics",
-    month = oct,
     year = "2022",
-    publisher = "International Committee on Computational Linguistics",
+    url = {}.
 }
 ```
