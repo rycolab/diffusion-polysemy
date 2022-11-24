@@ -2,7 +2,7 @@
 
 ## Paper
 
-This repository contains code accompanying ['Schrödinger’s Bat: Diffusion Models Sometimes Generate Polysemous Words in Superposition'](link) by Jennifer C. White and Ryan Cotterell (pre-print).
+This repository contains code accompanying ['Schrödinger’s Bat: Diffusion Models Sometimes Generate Polysemous Words in Superposition'](https://arxiv.org/pdf/2211.13095.pdf) by Jennifer C. White and Ryan Cotterell (pre-print).
 
 ## Details
 
@@ -20,6 +20,6 @@ We ran the original experiments using Google Colab.
     author = "White, Jennifer C.  and
       Cotterell, Ryan",
     year = "2022",
-    url = {}.
+    url = {https://arxiv.org/pdf/2211.13095.pdf}.
 }
 ```
